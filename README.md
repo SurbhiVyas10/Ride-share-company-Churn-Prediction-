@@ -2,7 +2,8 @@
 
 Project Overview:
 Ride sharing Company is interested in predicting rider retention. To help explore this question, they have provided a sample dataset of a cohort of users who signed up for an account in January 2014.The data was pulled several months later.
-Dataset Description 
+
+# Dataset Description :
 
 city: city this user signed up in phone: primary device for this user 
 
